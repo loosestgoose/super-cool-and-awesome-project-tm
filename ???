@@ -1,6 +1,6 @@
 using System;
 
-namespace GettingInput
+namespace NameSpace
 {
   class Program
   {
